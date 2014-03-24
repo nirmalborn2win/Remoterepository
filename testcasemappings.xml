@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="testcase" name="testcase">
+    <container displayname="Form" id="form1" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

@@ -1,0 +1,21 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="winmangotiletitlekey" value="testcase"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="andtargetsdkkey" value="3.0"/>
+    <attributes name="mwaddrkey" value="10.10.201.156"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="createdgaversion" value="5.5.0"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="appidkey" value="testcase"/>
+    <attributes name="currentgaversion" value="5.5.0.GA_v201311292058"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="apppackagekey" value="com.orgname.testcase"/>
+    <attributes name="startupformkey" value="form1"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appnamekey" value="testcase"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+</properties>
