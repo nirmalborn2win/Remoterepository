@@ -15,7 +15,8 @@
     <attributes name="startupformkey" value="form1"/>
     <attributes name="vendornamekey" value="KonyLabs"/>
     <attributes name="appnamekey" value="testcase"/>
-    <attributes name="APPLICATION_THEME" value="default"/>
     <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="mapkey" value=""/>
     <attributes name="SELECTED_THEME" value="default"/>
 </properties>
